@@ -15,7 +15,7 @@ This repository is currently for:
 3. Installation of the website (including Styles and other Includes)
 4. ~~License Engine (ccEngine) Setup~~
 
-[issues]: https://github.com/creativecommons/creativecommons.org/issues
+[issues]: https://github.com/creativecommons/creativecommons.org/patch-1
 
 
 ## Code of Conduct
